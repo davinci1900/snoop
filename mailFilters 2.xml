@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:cluster_5-z0000001575787585927*1868680865325216772</id>
+	<updated>2020-03-29T20:07:16Z</updated>
+	<author>
+		<name>Владислав Владислав</name>
+		<email>v.v.s.3999@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:cluster_5-z0000001575787585927*1868680865325216772</id>
+		<updated>2020-03-29T20:07:16Z</updated>
+		<content></content>
+		<apps:property name='from' value='Shevchenkoplena@yahoo.com'/>
+		<apps:property name='label' value='Счета'/>
+	</entry>
+</feed>
